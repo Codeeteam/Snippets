@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<nav class="nav nav--${1} js__nav--${1}">
+    <ul class="nav__list">
+        <li class="nav__list"><a href="#">${2}</a></li>
+    </ul>
+</nav>
+]]></content>
+    <tabTrigger>html#nav</tabTrigger>
+    <description>BEM Navigation HTML</description>
+</snippet>

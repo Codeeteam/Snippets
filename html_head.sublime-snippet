@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<h${1} class="head head--${2}">${3}</h${1}>
+]]></content>
+    <tabTrigger>html#head</tabTrigger>
+    <description>BEM Headline HTML</description>
+</snippet>

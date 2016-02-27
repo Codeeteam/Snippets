@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<ul class="list list--${1}">
+    <li class="list__item">
+        ${2}
+    </li>
+</ul>
+]]></content>
+    <tabTrigger>html#list</tabTrigger>
+    <description>BEM List HTML</description>
+</snippet>

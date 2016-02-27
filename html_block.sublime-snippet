@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="block block--${1}">
+    ${2}
+</div>
+]]></content>
+    <tabTrigger>html#block</tabTrigger>
+    <description>BEM Block HTML</description>
+</snippet>

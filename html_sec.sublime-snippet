@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<section class="sec sec--${1} js__sec--${1}">
+    <div class="inner">
+
+    </div>
+</section>
+]]></content>
+    <tabTrigger>html#sec</tabTrigger>
+    <description>BEM Section HTML</description>
+</snippet>

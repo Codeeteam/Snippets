@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<a href="${1}" class="btn btn--${2}">${3}</a>
+]]></content>
+    <tabTrigger>html#btn</tabTrigger>
+    <description>BEM Button HTML</description>
+</snippet>
